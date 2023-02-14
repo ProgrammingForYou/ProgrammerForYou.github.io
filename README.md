@@ -1,9 +1,8 @@
 # ProgrammerForYou.github.io
 Project to learn github program and it's associated service
 ---
-`This is the original repository of ProgrammerForYou.github.io" and it houses the ReadMe file. The words you see in this sentence or paragraph has a beginning and ending 
-tilda symbol (`) and what you want typed in put in between the tilda's. The tilda symbol is on the top row of your keyboard. `
-## Readme File
+`This is the original repository of ProgrammerForYou.github.io" and it houses the ReadMe file. The words you see in this sentence or paragraph has a beginning and ending tilda symbol (`) and what you want typed in put in between the tilda's. The tilda symbol is on the top row of your keyboard. `
+# Readme File
 ---
 `The Read Me file describes the program, software, and files for your project.`
 ---
